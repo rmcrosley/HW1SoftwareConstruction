@@ -10,7 +10,9 @@ int main() {
     int x = 2;
     x = x * x;
     
-    std::cout << x << std::endl;
+    std::cout << "2 + 2 = " << x << std::endl;
+    
+    
     
     return 0;
 }
