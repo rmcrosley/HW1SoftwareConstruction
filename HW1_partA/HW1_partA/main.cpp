@@ -7,7 +7,7 @@
 
 int main() {
     
-    int x = 2;
+    int x = 1;
     x = x * x;
     
     std::cout << x << std::endl;
